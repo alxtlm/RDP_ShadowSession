@@ -1,5 +1,8 @@
 # RDP_ShadowSession
+
 RDP Shadow session GUI tool
+
+## Using
 
 Create domain group (example: corp\TS Support) for shadow session.
 
