@@ -32,7 +32,6 @@ $_dlgList.MultiSelect = $False;
 $_dlgList.View = "Details";
 $_dlgList.FullRowSelect = 1;
 $_dlgList.GridLines = 1;
-$_dlgList.ScrollAlwaysVisible = 1;
 $_dlgForm.Controls.add($_dlgList);
 
 function LoadSessionData {
